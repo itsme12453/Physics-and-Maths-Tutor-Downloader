@@ -12,4 +12,3 @@ Don't worry though, I am currently working on a documentation which will allow y
 
 
 Do whatever you want with the script, I am not responsible... but I would appreciate it if you mentioned this repo if you use it :)
-[![Build Status](https://travis-ci.org/itsme12453/repo.svg?branch=master)](https://travis-ci.org/itsme12453/Physics-and-Maths-Tutor-Downloader)
