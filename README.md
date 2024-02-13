@@ -5,7 +5,7 @@ Simply run main.js (Node.js) and it will download EVERY SINGLE FILE from Physics
   Every SUBJECT
   Every SPECIFICATION
   Every EXAM QUESTION
-  Every NOTES PDF
+  ALL PDF NOTES
   ALL OF IT
 
 Don't worry though, I am currently working on a documentation which will allow you to download only the specific subject/specification you want, giving you full customisability.
