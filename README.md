@@ -1,5 +1,5 @@
 # Physics-and-Maths-Tutor-Downloader
-This *simple* script allows you to download every file from Physics and Math Tutor... documentation is in progress....
+This script allows you to download every file from Physics and Math Tutor... documentation is in progress....
 
 Simply run main.js (Node.js) and it will download EVERY SINGLE FILE from Physics and maths Tutor
   Every SUBJECT
